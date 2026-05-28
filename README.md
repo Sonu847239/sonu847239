@@ -1,3 +1,40 @@
+💫 Hi 👋, I'm Sonu
+
+B.Tech Information Technology Student  || Python Developer || AI & Tech Enthusiast
+
+Email Me 👉 ✉️ [sonukumar.aiml.com]  
+For Collaboration, Projects, Hackathons, or Anything Tech 😊
+
+# 💫 About Me:
+
+🔭 I’m currently working on<br><br>
+1️⃣ Python and Java-based development projects<br>
+2️⃣ Building and experimenting with AI agents and image/video generation tools<br>
+3️⃣ Deploying web applications and exploring backend systems<br>
+
+👯 I’m looking to collaborate on<br>
+1️⃣ Python-driven applications and automation scripts<br>
+2️⃣ Open-source AI tools and Model Context Protocol (MCP) implementations<br>
+3️⃣ Hackathons and creative tech builds<br>
+
+🤝 I’m looking for help with<br>
+1️⃣ Advanced Data Structures and Algorithms<br>
+2️⃣ Scaling web applications for real users<br>
+3️⃣ Mastering complex Object-Oriented Programming (OOP) concepts<br>
+
+🌱 I’m currently learning<br><br>
+1️⃣ Advanced Python for backend systems and AI integrations<br>
+2️⃣ Full-stack deployment strategies (Vercel, Render, Netlify)<br>
+3️⃣ Core IT subjects and software architecture<br>
+
+💬 Ask me about<br><br>
+1️⃣ Python & Java programming<br>
+2️⃣ Creating high-quality AI-generated art and cinematic prompts<br>
+3️⃣ Mobile hardware specs and performance optimization<br>
+4️⃣ Hackathons & student tech growth<br>
+
+⚡ Fun fact<br>
+I love optimizing mobile performance for gaming just as much as I love writing clean Python code! 🚀🎮
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([https://linkedin.com/in/sonu siddharh](https://in.linkedin.com/in/sonu-siddharth-a295a131b)) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sonukumar.aiml@gmail.com) 
