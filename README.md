@@ -1,5 +1,9 @@
-## Hi there 👋
+💫 Hi 👋, I'm sonu
 
+|| B.Tech information technology(IT) || LLM Builder
+
+Email Me 👉 ✉️ sonukumar.aiml@gmail.com
+For Collaboration, Projects, Research, or Anything Tech 😊
 <!--
 **Sonu847239/sonu847239** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
